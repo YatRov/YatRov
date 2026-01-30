@@ -13,7 +13,7 @@ Other: C++, Python, Git/GitHub
 • Continue higher education in IT 🎓  
 • Contribute to interesting projects and explore new technologies  
 
-# Fun Facts:
+# About Me:
 • Follow IT news 🌐  
 • Gym enthusiast 💪  
 • Passionate about personal development 📚 
