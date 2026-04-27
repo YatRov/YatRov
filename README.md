@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I'm Maks, a Junior Fullstack Developer from Ukraine 🇺🇦  
+I'm Maks, a Junior Fullstack Developer from Ukraine  
 Currently studying Programming at Technical College, focusing on **Fullstack Development and AI/Automation**.
 
 # Tech Stack
